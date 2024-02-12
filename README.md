@@ -34,11 +34,11 @@ cd stock-price-predictor
 ```
 jupyter notebook
 ```
-1. In your browser, navigate to the URL shown in the terminal where Jupyter Notebook is running.
+- In your browser, navigate to the URL shown in the terminal where Jupyter Notebook is running.
 
-2. Open the Stock svm and random forest.ipynb and Stockarima lstm.ipynb file.
+- Open the Stock svm and random forest.ipynb and Stockarima lstm.ipynb file.
 
-3. Follow the instructions and execute the cells in the notebook to train and evaluate the machine learning models.
+- Follow the instructions and execute the cells in the notebook to train and evaluate the machine learning models.
 ## Notebooks Description
 This notebook contains the implementation of machine learning models for stock price prediction using Linear Regression, SVM, Random Forest, LSTM, and ARIMA algorithms. It includes data collection, preprocessing, feature engineering, model development, and evaluation.
 ## Dataset
