@@ -21,24 +21,24 @@ You can install the required packages using pip:
 pip installnumpy pandas matplotlib scikit-learn tensorflow statsmodels jupyter
 ```
 ## Getting Started
-Follow these steps to run the Jupyter Notebook on your local machine:
-1.Clone this repository to your local machine using Git:
+### Follow these steps to run the Jupyter Notebook on your local machine:
+1. Clone this repository to your local machine using Git:
 ```
 https://github.com/Hrut7hesh/Stock-Price-Predictor.git
 ```
-2.Navigate to the cloned repository directory:
+2. Navigate to the cloned repository directory:
 ```
 cd stock-price-predictor
 ```
-3.Launch Jupyter Notebook:
+3. Launch Jupyter Notebook:
 ```
 jupyter notebook
 ```
-1.In your browser, navigate to the URL shown in the terminal where Jupyter Notebook is running.
+1. In your browser, navigate to the URL shown in the terminal where Jupyter Notebook is running.
 
-2.Open the Stock svm and random forest.ipynb and Stockarima lstm.ipynb file.
+2. Open the Stock svm and random forest.ipynb and Stockarima lstm.ipynb file.
 
-3.Follow the instructions and execute the cells in the notebook to train and evaluate the machine learning models.
+3. Follow the instructions and execute the cells in the notebook to train and evaluate the machine learning models.
 ## Notebooks Description
 This notebook contains the implementation of machine learning models for stock price prediction using Linear Regression, SVM, Random Forest, LSTM, and ARIMA algorithms. It includes data collection, preprocessing, feature engineering, model development, and evaluation.
 ## Dataset
